@@ -16,10 +16,10 @@
             <a href="github.html">github خدمه</a>
         </li>
         <li>
-            <a href="Saas.html">خدمات Saas</a>
+            <a href="Saas.html">امثله saas لخدمات عربيه</a>
         </li>
         <li>
-            <a href="paytech.html">بوابات الدفع الالكترونى</a>
+            <a href="paytech.html"> امثله بوابات الدفع الالكترونى</a>
         </li>
     </ul>
 
