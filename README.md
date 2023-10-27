@@ -10,7 +10,7 @@
             <a href="page2.html">API</a>
         </li>
         <li>
-            <a href="IIS&Apache.html">IIS&Apache</a>
+            <a href="IIS&Apache.html">كيف تجعل جهازك خادم</a>
         </li>
         <li>
             <a href="github.html">github</a>
