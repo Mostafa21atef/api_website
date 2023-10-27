@@ -7,9 +7,6 @@
     <h1>فيصل حسين العنزى </h1>
     <ul>
         <li>
-            <a href="#">الصفحه الرئيسيه</a>
-        </li>
-        <li>
             <a href="page2.html">API</a>
         </li>
         <li>
